@@ -1,0 +1,4 @@
+eksperimen,perubahan,pretrained,mAP50,mAP50-95,precision,recall,inferensi_ms,waktu_latih_menit,imgsz,bobot
+E1_pretrained,-,True,0.8817,0.5386,0.7676,0.8929,123.54,4.11,416,/home/nuyuy/Downloads/proyek_yolo_saya/hasil_praktik/E1_pretrained/weights/best.pt
+E2_scratch,-,False,0.0081,0.001,0.0038,1.0,126.07,3.65,416,/home/nuyuy/Downloads/proyek_yolo_saya/hasil_praktik/E2_scratch/weights/best.pt
+E3_tuning,imgsz=640,True,0.7438,0.4445,0.6769,0.791,270.73,6.36,640,/home/nuyuy/Downloads/proyek_yolo_saya/hasil_praktik/E3_tuning/weights/best.pt
